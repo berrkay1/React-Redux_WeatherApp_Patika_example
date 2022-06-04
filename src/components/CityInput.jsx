@@ -24,7 +24,7 @@ function CityInput() {
                         <option key={index} value={item.name} >{item.name}</option>
                     ))}
 
-                    
+                    <div></div>
                 </select>
             </form>
 
